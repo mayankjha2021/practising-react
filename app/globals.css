@@ -17,3 +17,8 @@ body{
     border-radius: 10px;
 
 }
+
+a{
+    margin:30px ;
+    display:block ;
+}
